@@ -8,7 +8,7 @@ This is a list of papers to read in preparation for our 2022 summer research in 
 * Adversarial Examples for Evaluating Reading Comprehension Systems
 * Evaluation Metrics for Machine Reading Comprehension: Prerequisite Skills and Readability
 * What Makes Reading Comprehension Questions Easier?
-* SQuAD 2.0: Know what you don’t know: Unanswerable Questions for SQuAD.
+* SQuAD 2.0: Know what you don’t know: Unanswerable Questions for SQuAD
 * Challenges in Information-Seeking QA: Unanswerable questions and Paragraph Retrieval
 * Different Aspects of Unanswerable questions (based on results in Son’s current researches) 
 * Coreference Reasoning in Machine Reading Comprehension 
