@@ -5,4 +5,4 @@
 
 **Transformer's Illustration:** [Illustration](https://jalammar.github.io/illustrated-transformer/)
 
-
+**BERT's original peper:** [BERT original paper](https://arxiv.org/pdf/1810.04805.pdf)
