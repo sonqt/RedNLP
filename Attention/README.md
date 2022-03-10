@@ -13,4 +13,4 @@ Links to Stanford CS224n related to attention
 [Pytorch Attention Example](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
 
 ## Implementation:
-Implement a simple layer of attention using pytorch
+[Implement](https://github.com/sonqt/RedNLP/blob/main/Attention/implementations/SimpleAttentionLayer.ipynb) a simple layer of attention using pytorch
