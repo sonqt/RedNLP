@@ -9,5 +9,5 @@ Spring 2022 Directed Study at Denison University: Optimizing Machine Reading Com
 | Week 4 | [Machine Translation and Attention](https://github.com/sonqt/RedNLP/tree/main/Attention) |
 | Week 5 | [RNet](https://github.com/sonqt/RedNLP/tree/main/RNet) | 
 | Week 6 | [Transformer and Self-Attention](https://github.com/sonqt/RedNLP/tree/main/Transformer) |
-| Week 7 | BERT | 
+| Week 7 | [BERT](https://github.com/sonqt/RedNLP/tree/main/BERT) | 
 | Week 8 | Hugging Face | 
