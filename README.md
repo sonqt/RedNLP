@@ -11,3 +11,9 @@ Spring 2022 Directed Study at Denison University: Optimizing Machine Reading Com
 | Week 6 | [Transformer and Self-Attention](https://github.com/sonqt/RedNLP/tree/main/Transformer) |
 | Week 7 | [BERT](https://github.com/sonqt/RedNLP/tree/main/BERT) | 
 | Week 8 | Hugging Face | 
+| Week 9 | Shortcut Learning in MRC |
+| Week 10 | Unanswerable Questions in MRC | 
+| Week 11 | Unanswerable Questions vs Shortcut Learning |
+| Week 12 | Final Project |
+| Week 13 | Final Project |
+| Week 14 | Final Project |
