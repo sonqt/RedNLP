@@ -16,4 +16,4 @@ Spring 2022 Directed Study at Denison University: Optimizing Machine Reading Com
 | Week 11 | Unanswerable Questions vs Shortcut Learning |
 | Week 12 | Final Project |
 | Week 13 | Final Project |
-| Week 14 | Final Project |
+| Week 14 | [Final Project](https://github.com/sonqt/RedNLP/blob/main/CS362-Final-Paper.pdf) |
